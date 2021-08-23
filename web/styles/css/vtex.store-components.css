@@ -1,0 +1,20 @@
+.searchBarContainer :global(.vtex-input-prefix__group) {
+  color: white;
+  border-right: none;
+  border-top: none;
+  border-left: none;
+}
+
+.searchBarContainer :global(.vtex-input) {
+  color: white;
+  border-radius: 0px;
+}
+
+.input {
+  color: white;
+  border-radius: 0px;
+}
+
+.searchBarContainer :global(.vtex-flex-layout-0-x-flexRowContent) {
+  background-color: black !important;
+}

@@ -1,0 +1,12 @@
+.wrapper--sticky-header {
+  background-color: #212121;
+  position: fixed;
+  top: 0;
+}
+
+.menuContainer--footer-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}

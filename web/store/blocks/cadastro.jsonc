@@ -1,0 +1,8 @@
+{
+    "store.custom#cadastro": {
+      "blocks": ["flex-layout.row#cadastro"]
+    },
+    "flex-layout.row#cadastro": {
+        "children": ["leadForm"]
+    }
+}
