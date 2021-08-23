@@ -10,6 +10,6 @@ Template de criação
 
 - Criar a solução a partir de um boiler template padrão da Vtex IO.
 
-<img src="./web/assets/pagina.png" alt="" />
+<img src="./web/assets/pagina.png" alt="" width="500" />
 
 Obs.: Gostaria de ter mais tempo para completar o que faltou, como estilização, retornar os preços no card o product.summury e utilizar a api da AWS.
